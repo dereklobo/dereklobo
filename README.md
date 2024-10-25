@@ -10,7 +10,7 @@ On a journey to help those who come my way. I also happen to be a curious softwa
 [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklobo)](https://github.com/dereklobo/github-readme-stats) -->
 
 ## Skills
-Laravel, Vue JS, HTML, CSS
+Laravel, Vue JS, React JS, Node JS, HTML, CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklobo&langs_count=8&layout=compact)
 
