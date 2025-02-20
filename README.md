@@ -3,8 +3,8 @@
 <!-- ![Derek Lobo](https://gravatar.com/avatar/c058e65e0a20333d266d8ce3ed937ebd#avatar?size=150) -->
 
 On a journey to help those who come my way. I also happen to be a curious software engineer, an outdoor enthusiast and a foodie.
-
-![Derek's GitHub Streak](https://streak-stats.demolab.com?user=dereklobo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+<!--
+![Derek's GitHub Streak](https://streak-stats.demolab.com?user=dereklobo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly) -->
 
 <!-- ## GitHub stats
 [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklobo)](https://github.com/dereklobo/github-readme-stats) -->
