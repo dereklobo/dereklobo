@@ -1,13 +1,38 @@
 # Derek Lobo
 
 <!-- ![Derek Lobo](https://gravatar.com/avatar/c058e65e0a20333d266d8ce3ed937ebd#avatar?size=150) -->
-
+<!-- <p>
+  <b>Full-stack Developer</b>
+</p>
+-->
 On a journey to help those who come my way. I also happen to be a curious software engineer, an outdoor enthusiast and a foodie.
 <!--
 ![Derek's GitHub Streak](https://streak-stats.demolab.com?user=dereklobo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly) -->
 
 <!-- ## GitHub stats
 [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklobo)](https://github.com/dereklobo/github-readme-stats) -->
+
+<!--
+<p align="center">
+  <a href="https://linkedin.com/in/idereklobo">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dereklobo&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dereklobo?style=social" />
+</p>
+-->
+
+<!-- ## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=flat&logo=github-actions) -->
+
 
 ## Skills
 Laravel, Vue JS, React JS, Node JS, HTML, CSS
