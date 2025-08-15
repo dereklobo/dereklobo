@@ -39,7 +39,7 @@ Laravel, Vue JS, React JS, Node JS, HTML, CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklobo&langs_count=8&layout=compact)
 
-Experience using Laravel v10, Vue.js v2, v3, InertiaJS v1.0, Bootstrap 5, Zend Framework 2 and MySQL, Web Accessibility.
+Experience using Laravel v10, React JS, Vue.js v2, v3, InertiaJS v1.0, Bootstrap 5, Zend Framework 2 and MySQL, Web Accessibility.
 
 
 ### Likes
