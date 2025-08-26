@@ -5,7 +5,7 @@
   <b>Full-stack Developer</b>
 </p>
 -->
-On a journey to help those who come my way. I also happen to be a curious software engineer, an outdoor enthusiast and a foodie.
+I also happen to be a curious software engineer, an outdoor enthusiast and a foodie.
 <!--
 ![Derek's GitHub Streak](https://streak-stats.demolab.com?user=dereklobo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly) -->
 
@@ -35,11 +35,11 @@ On a journey to help those who come my way. I also happen to be a curious softwa
 
 
 ## Skills
-Laravel, Vue JS, React JS, Node JS, HTML, CSS
+Laravel, React JS, Vue JS, Node JS, HTML, CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklobo&langs_count=8&layout=compact)
 
-Experience using Laravel v10, React JS, Vue.js v2, v3, InertiaJS v1.0, Bootstrap 5, Zend Framework 2 and MySQL, Web Accessibility.
+Experience using Laravel, React JS, Vue.js v2, v3, InertiaJS v1.0, Bootstrap 5, Zend Framework 2 and MySQL, Web Accessibility.
 
 
 ### Likes
