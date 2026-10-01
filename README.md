@@ -1,54 +1,31 @@
-# Derek Lobo
+# Hi, I'm Derek 👋
 
-<!-- ![Derek Lobo](https://gravatar.com/avatar/c058e65e0a20333d266d8ce3ed937ebd#avatar?size=150) -->
-<!-- <p>
-  <b>Full-stack Developer</b>
-</p>
--->
-I also happen to be a curious software engineer, an outdoor enthusiast and a foodie.
-<!--
-![Derek's GitHub Streak](https://streak-stats.demolab.com?user=dereklobo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly) -->
+Full-stack software engineer with 10+ years of experience building web and mobile
+products. I work mostly in **Laravel, React and Vue**, and I care about security,
+testing and accessibility.
 
-<!-- ## GitHub stats
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklobo)](https://github.com/dereklobo/github-readme-stats) -->
+Most recently I was a software engineer at **Workvivo by Zoom** in Dublin, building
+the Spaces module of an employee-experience platform used by millions.
 
-<!--
-<p align="center">
-  <a href="https://linkedin.com/in/idereklobo">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=dereklobo&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/dereklobo?style=social" />
-</p>
--->
+## What I work with
+- **Languages:** PHP, JavaScript (ES6+), TypeScript, SQL, Bash
+- **Front end:** React, React Native, Vue.js, Inertia.js, Nuxt.js, Tailwind CSS, Bootstrap
+- **Back end:** Laravel, Node.js, REST APIs, GraphQL
+- **Data:** MySQL, PostgreSQL, MongoDB, Redis
+- **Quality and ops:** PHPUnit, Pest, Jest, Postman, Docker, GitHub Actions, Grafana, Sentry, AWS CloudWatch
+- **AI-assisted work:** GitHub Copilot, Cursor and Claude Code for tests, docs and code review
 
-<!-- ## 🛠️ Tech Stack
+## Highlights
+- Shipped 50+ production pull requests in 14 months across Laravel, React and React Native
+- Built the Space Editor Role feature end to end, from API and docs to UI
+- Fixed 10+ CVSS-rated security issues, including a high-severity access-control flaw
+- Migrated Bootstrap, Vue.js and Inertia.js versions on a job-matching platform (WhoPlusYou)
+- Web accessibility (WCAG) training through the Interaction Design Foundation
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=flat&logo=github-actions) -->
+## Elsewhere
+- 🌐 [dereklobo.github.io](https://dereklobo.github.io/): my personal site and travel map
+- 💼 [LinkedIn](https://www.linkedin.com/in/idereklobo/)
+- 📚 [Laracasts](https://laracasts.com/@Derek-Lobo)
+- ✉️ loboiderek@gmail.com
 
-
-## Skills
-Laravel, React JS, Vue JS, Node JS, HTML, CSS
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklobo&langs_count=8&layout=compact)
-
-Experience using Laravel, React JS, Vue.js v2, v3, InertiaJS v1.0, Bootstrap 5, Zend Framework 2 and MySQL, Web Accessibility.
-
-
-### Likes
-* Biking
-* Swimming
-* Hiking
-* Trying new cuisines
-
-## Contact me
-Find me over on the [LinkedIn](https://www.linkedin.com/in/idereklobo/) network
-
-Personal website using [Github Pages](https://dereklobo.github.io/about.html)
+Off the keyboard: biking, hiking, soccer, badminton and trying new cuisines.
